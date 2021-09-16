@@ -1,0 +1,19 @@
+{
+    "employeeDetails": [{
+        "name": "Thabo",
+        "age": 20, 
+        "designation": "Developer"
+    }, {
+        "name": "Lukisi",
+        "age": 20, 
+        "designation": "Developer"
+    }, {
+        "name": "Daryl",
+        "age": 20, 
+        "designation": "Developer"
+    }, {
+        "name": "Segopotso",
+        "age": 20, 
+        "designation": "Developer"
+    }]
+}
